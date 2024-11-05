@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://odeleoki.github.io/WcF/sitemap_index.txt
+Sitemap: https://odeleoki.github.io/kEF/sitemap_index.txt
+Sitemap: https://odeleoki.github.io/nJN/sitemap_index.txt
+Sitemap: https://odeleoki.github.io/oiO/sitemap_index.txt
